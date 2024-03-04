@@ -140,7 +140,7 @@ return [
             /*
              * The filename prefix used for the backup zip file.
              */
-            'filename_prefix' => 'as2-',
+            'filename_prefix' => 'Assignment2-',
 
             /*
              * The disk names on which the backups will be stored.
